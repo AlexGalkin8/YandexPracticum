@@ -10,3 +10,6 @@
 [submodule "Mython"]
 	path = Mython
 	url = https://github.com/AlexGalkin8/Mython.git
+[submodule "VirtualTables"]
+	path = VirtualTables
+	url = https://github.com/AlexGalkin8/VirtualTables.git
