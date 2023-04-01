@@ -1,3 +1,6 @@
 [submodule "SearchServer"]
 	path = SearchServer
 	url = https://github.com/AlexGalkin8/SearchServer.git
+[submodule "TransportCatalogue"]
+	path = TransportCatalogue
+	url = https://github.com/AlexGalkin8/TransportCatalogue.git
