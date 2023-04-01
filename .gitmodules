@@ -13,3 +13,6 @@
 [submodule "VirtualTables"]
 	path = VirtualTables
 	url = https://github.com/AlexGalkin8/VirtualTables.git
+[submodule "Vector"]
+	path = Vector
+	url = https://github.com/AlexGalkin8/Vector.git
