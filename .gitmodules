@@ -7,3 +7,6 @@
 [submodule "Spreadsheet"]
 	path = Spreadsheet
 	url = https://github.com/AlexGalkin8/Spreadsheet.git
+[submodule "Mython"]
+	path = Mython
+	url = https://github.com/AlexGalkin8/Mython.git
