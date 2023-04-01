@@ -4,3 +4,6 @@
 [submodule "TransportCatalogue"]
 	path = TransportCatalogue
 	url = https://github.com/AlexGalkin8/TransportCatalogue.git
+[submodule "Spreadsheet"]
+	path = Spreadsheet
+	url = https://github.com/AlexGalkin8/Spreadsheet.git
