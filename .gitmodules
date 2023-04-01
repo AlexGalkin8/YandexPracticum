@@ -1,0 +1,3 @@
+[submodule "SearchServer"]
+	path = SearchServer
+	url = https://github.com/AlexGalkin8/SearchServer.git
