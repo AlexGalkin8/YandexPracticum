@@ -16,3 +16,6 @@
 [submodule "Vector"]
 	path = Vector
 	url = https://github.com/AlexGalkin8/Vector.git
+[submodule "CustomOptional"]
+	path = CustomOptional
+	url = https://github.com/AlexGalkin8/CustomOptional.git
